@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+}
+
+header {
+    box-shadow: 0px 15px 20px gray;
+    padding: 10px;
+    background-color: #816c61;
+    color: #e7dfc6;
+}
+
+header ul {
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+header ul a {
+    color: #e7dfc6;
+    text-decoration: none;
+}
+
+main {
+    margin: 60px 20px;
+}
+
+main h1 {
+    text-align: center;
+    color: #816c61;
+}
+
+main #hero {
+    text-align: center;
+}
+
+main #hero img {
+    width: 200px;
+}
